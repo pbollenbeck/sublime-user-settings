@@ -1,18 +1,22 @@
 {
 	"ensure_newline_at_eof_on_save": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "tab_size": 2,
-  "theme": "Soda Light.sublime-theme",
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "new_window_settings":
-  {
-    "show_minimap": false
-  },
-  "rulers": [80],
-  "translate_tabs_to_spaces": true,
+	"font_size": 11.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

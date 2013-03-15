@@ -1,7 +1,12 @@
 {
 	"installed_packages":
 	[
+		"CTags",
+		"DetectSyntax",
+		"Git",
 		"Package Control",
+		"RSpec",
+		"SCSS",
 		"Theme - Soda"
 	]
 }
