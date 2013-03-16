@@ -6,8 +6,8 @@ User settings for Sublime Text 2
 
 Backup your current user settings:
 
-  mv ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User.backup
+    mv ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User.backup
 
 Clone the repo:
 
-  git clone https://github.com/pbollenbeck/sublime-user-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+    git clone https://github.com/pbollenbeck/sublime-user-settings ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
